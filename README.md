@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-234&layout=compact&theme=dark" />
 </a>
 
-https://github.com/ManoharBorana4922/ManoharBorana4922/blob/output/github-contribution-grid-snake.svg
+![snake gif](https://github.com/ManoharBorana4922/ManoharBorana4922/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 ManoharBorana4922/ManoharBorana4922 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
